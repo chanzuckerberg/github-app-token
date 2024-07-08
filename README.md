@@ -1,3 +1,6 @@
+> [!WARNING]  
+> This is a deprecated fork. Use the upstream instead https://github.com/tibdex/github-app-token
+
 # GitHub App Token
 
 This [JavaScript GitHub Action](https://help.github.com/en/actions/building-actions/about-actions#javascript-actions) can be used to impersonate a GitHub App when `secrets.GITHUB_TOKEN`'s limitations are too restrictive and a personal access token is not suitable.
